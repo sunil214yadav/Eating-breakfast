@@ -1,1 +1,1 @@
-#multitasking usig round robin
+#multitasking using round robin
